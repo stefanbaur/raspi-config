@@ -1,3 +1,10 @@
+raspi-config (20231012~bullseye) bullseye; urgency=medium
+
+  [ Dom Cobley ]
+  * Modify is_kms for correct behaviour on Raspberry Pi 5
+
+ -- Simon Long <simon@raspberrypi.com>  Thu, 12 Oct 2023 14:15:07 +0100
+
 raspi-config (20231004~bullseye) bullseye; urgency=medium
 
   [ Tim Gover ]
